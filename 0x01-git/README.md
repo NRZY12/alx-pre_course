@@ -1,1 +1,1 @@
-This is git directory for ALX SE
+This is new README file for git directory
